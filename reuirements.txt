@@ -5,3 +5,6 @@ scikit-learn
 metplotlib
 stremlit
 tensorboard
+pickel
+datetime
+sklearn
