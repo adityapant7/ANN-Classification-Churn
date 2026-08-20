@@ -3,7 +3,7 @@ import pickle
 import pandas as pd
 from tensorflow.keras.models import load_model
 
-model=load_model('model.keras')
+model=load_model('model.keras',complie=False)
 
 with open('label_encoder_gender.pkl','rb')as file:
     label_encoder_gender=pickle.load(file)
