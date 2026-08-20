@@ -3,5 +3,5 @@ pandas
 numpy<2
 scikit-learn==1.7.1
 matplotlib
-stremlit
+streamlit
 tensorboard
