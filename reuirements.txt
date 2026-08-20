@@ -1,4 +1,4 @@
-tensorflow==2.15.0
+tensorflow
 pandas 
 numpy
 scikit-learn=1.7.1
@@ -6,5 +6,6 @@ metplotlib
 stremlit
 tensorboard
 #dependencies
+#changed
 
 
