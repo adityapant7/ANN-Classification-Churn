@@ -1,11 +1,7 @@
-tensorflow
+tensorflow==2.15.0
 pandas 
-numpy
-scikit-learn=1.7.1
-metplotlib
+numpy<2
+scikit-learn==1.7.1
+matplotlib
 stremlit
 tensorboard
-#dependencies
-#changed
-
-
